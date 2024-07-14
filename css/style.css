@@ -5,3 +5,15 @@
 .vh-50{
     height: 50vh;
 }
+
+.img-price-position{
+    bottom: 0;
+    left: 0%;
+}
+
+
+@media (min-width: 350)  {
+    .custom-d-xs-block{
+        display: block;
+    }
+}
