@@ -13,6 +13,6 @@
 
 @media only screen and (max-width: 350){
     .custom-d-xs-block{
-        display: none;
+        opacity: 0;
     }
 }
