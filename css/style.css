@@ -29,6 +29,13 @@
     transition: 1s all ease-out;
 }
 
+.carousel-inner{
+    flex-wrap: wrap;
+}
+
+.carousel-item{
+    width: calc(100% / 3);
+}
 
 /* #img-div:hover{
     width: 55%;
