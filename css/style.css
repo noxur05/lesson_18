@@ -24,3 +24,12 @@
 .bg-gray-100{
     background: #eeeeee;
 }
+
+#img-div{
+    transition: 1s all ease-out;
+}
+
+
+/* #img-div:hover{
+    width: 55%;
+} */
