@@ -6,6 +6,10 @@
     height: 50vh;
 }
 
+.max-height{
+    max-height: 145px;
+}
+
 .img-price-position{
     bottom: 0;
     left: 0%;
