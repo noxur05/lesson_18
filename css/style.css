@@ -11,9 +11,8 @@
     left: 0%;
 }
 
-
-@media (min-width: 350)  {
+@media only screen and (max-width: 350){
     .custom-d-xs-block{
-        display: block;
+        display: none;
     }
 }
